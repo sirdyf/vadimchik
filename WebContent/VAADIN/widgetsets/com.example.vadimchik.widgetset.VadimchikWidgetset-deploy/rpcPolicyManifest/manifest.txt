@@ -1,0 +1,2 @@
+# Module com.example.vadimchik.widgetset.VadimchikWidgetset
+# RPC service class, partial path of RPC policy file
